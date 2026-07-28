@@ -6,4 +6,5 @@ It is completely free to use for all ages and is designed with transparency and 
 The app follows privacy practices in compliance with Google Play Store guidelines and policies.  
 Any data used is solely for providing the app’s core functionality and is never sold or shared with third parties.  
 
-If you have questions or concerns about this Privacy Policy, feel free to contact me at: **guilthys@example.com** or https://buymeacoffee.com/gamearc
+If you have questions or concerns about this Privacy Policy, feel free to contact me at: **guilthys@example.com** or [Buy Me a Coffee](https://buymeacoffee.com/gamearc)
+
